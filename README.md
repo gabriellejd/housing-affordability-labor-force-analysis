@@ -7,7 +7,7 @@ Why this project is useful:
 Housing affordability is often cited as a barrier to workforce participation, but the strength and consistency of this relationship is unclear. This project demonstrates how quantitative analysis and regression modeling can be used to test policy assumptions, interpret null results, and identify other structural factors influencing labor outcomes.
 
 Get Started:
-Clone this repository and install the required dependencies. Open the notebook or script and run 
+Clone this repository and install the required dependencies. Open housing_affordability_analysis.logo and run 
 
 Data:
 Source: 2023 American Community Survey (5-Year Estimates).
